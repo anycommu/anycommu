@@ -21,3 +21,9 @@ anycommuではアプリの利便性向上のため、匿名で、個人を特定
 
 1. 問い合わせ先
 [メール](anycommu@gmail.com)     
+
+---
+
+iOS | Android
+--- | ---
+[<img width="220" alt="iOS" src="https://user-images.githubusercontent.com/1255062/77712589-8ff55480-7017-11ea-8a5b-16a0b9105afa.png">](https://apps.apple.com/jp/app/id1504020254) | [<img width="300" alt="Android" src="https://user-images.githubusercontent.com/1255062/77712592-9257ae80-7017-11ea-889f-40205553b8eb.png">](https://play.google.com/store/apps/details?id=com.kdg.anycommu)
